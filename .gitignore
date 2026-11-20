@@ -1,0 +1,12 @@
+# Build intermediates and the finished clip — NOT part of the entry.
+# The clip is Rockstar footage; it is handed to the channel owner for upload,
+# never committed here (see CUTTING.md). The stills/ frames ARE committed.
+*.mp4
+*.aac
+/contact.jpg
+/test_frames.jpg
+/v2_check.jpg
+/pitch_check.jpg
+/pitch_frame.png
+/pitch_frame_vert.png
+/strip_*.jpg
